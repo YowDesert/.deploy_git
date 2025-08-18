@@ -6,7 +6,7 @@
   <link href="https://yowdesert.github.io/atom.xml" rel="self"/>
   
   <link href="https://yowdesert.github.io/"/>
-  <updated>2025-08-14T04:56:53.949Z</updated>
+  <updated>2025-08-18T03:56:10.457Z</updated>
   <id>https://yowdesert.github.io/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LeetCode 679題 24 Game 解題筆記</title>
+    <link href="https://yowdesert.github.io/posts/679game24.html"/>
+    <id>https://yowdesert.github.io/posts/679game24.html</id>
+    <published>2025-08-18T03:00:00.000Z</published>
+    <updated>2025-08-18T03:56:10.457Z</updated>
+    
+    
+    <summary type="html">LeetCode 679 題 24 Game 題目翻譯、範例與解法整理。</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://yowdesert.github.io/categories/LeetCode/"/>
+    
+    <category term="Hard" scheme="https://yowdesert.github.io/categories/LeetCode/Hard/"/>
+    
+    
+    <category term="LeetCode" scheme="https://yowdesert.github.io/tags/LeetCode/"/>
+    
+    <category term="Math" scheme="https://yowdesert.github.io/tags/Math/"/>
+    
+    <category term="DFS" scheme="https://yowdesert.github.io/tags/DFS/"/>
+    
+    <category term="Backtracking" scheme="https://yowdesert.github.io/tags/Backtracking/"/>
+    
+    <category term="Hard" scheme="https://yowdesert.github.io/tags/Hard/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>(線性代數) 矩陣與矩陣運算</title>
+    <link href="https://yowdesert.github.io/posts/0.html"/>
+    <id>https://yowdesert.github.io/posts/0.html</id>
+    <published>2025-08-14T08:40:00.000Z</published>
+    <updated>2025-08-14T10:49:18.957Z</updated>
+    
+    
+    <summary type="html">本文介紹矩陣的基本概念、記號、種類與基本運算，是學習線性代數的基礎。</summary>
+    
+    
+    
+    <category term="研究所" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/"/>
+    
+    <category term="線性代數" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/"/>
+    
+    <category term="矩陣與線性方程組" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/%E7%9F%A9%E9%99%A3%E8%88%87%E7%B7%9A%E6%80%A7%E6%96%B9%E7%A8%8B%E7%B5%84/"/>
+    
+    
+    <category term="線性代數" scheme="https://yowdesert.github.io/tags/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/"/>
+    
+    <category term="矩陣" scheme="https://yowdesert.github.io/tags/%E7%9F%A9%E9%99%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>LeetCode 題目統整筆記</title>
@@ -100,7 +154,7 @@
     <link href="https://yowdesert.github.io/posts/69c95243.html"/>
     <id>https://yowdesert.github.io/posts/69c95243.html</id>
     <published>2025-08-12T07:00:00.000Z</published>
-    <updated>2025-08-14T07:05:41.851Z</updated>
+    <updated>2025-08-14T08:39:03.822Z</updated>
     
     
     <summary type="html">離散數學入門的基本符號與概念速查，涵蓋邏輯、集合、數系、數論，附上簡單生活化例子，方便快速查找。</summary>
