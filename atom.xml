@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>YowDesert&#39;s 資訊學習筆記</title>
+  <title>YD&#39;s 資訊學習筆記</title>
   <icon>https://yowdesert.github.io/icon.png</icon>
   <subtitle>一起從零開始踏進資訊世界</subtitle>
   <link href="https://yowdesert.github.io/atom.xml" rel="self"/>
   
   <link href="https://yowdesert.github.io/"/>
-  <updated>2025-08-18T03:56:10.457Z</updated>
+  <updated>2025-12-11T14:18:33.385Z</updated>
   <id>https://yowdesert.github.io/</id>
   
   <author>
@@ -17,51 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>LeetCode 679題 24 Game 解題筆記</title>
-    <link href="https://yowdesert.github.io/posts/679game24.html"/>
-    <id>https://yowdesert.github.io/posts/679game24.html</id>
-    <published>2025-08-18T03:00:00.000Z</published>
-    <updated>2025-08-18T03:56:10.457Z</updated>
+    <title>(資料庫系統) Basic SQL (Structured Query Language)</title>
+    <link href="https://yowdesert.github.io/posts/4f5b5fb4.html"/>
+    <id>https://yowdesert.github.io/posts/4f5b5fb4.html</id>
+    <published>2025-12-09T13:16:17.006Z</published>
+    <updated>2025-12-11T14:18:33.385Z</updated>
     
     
-    <summary type="html">LeetCode 679 題 24 Game 題目翻譯、範例與解法整理。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;簡短說明：&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;主題：Basic SQL&lt;/li&gt;
+&lt;li&gt;本章重點：
+&lt;ul&gt;
+&lt;li&gt;SQL 的由來與「關聯模型」差異&lt;/li&gt;
+&lt;li&gt;SQL 三種語言：DDL / DML / DCL&lt;/li&gt;
+&lt;li&gt;Schema / Catalog /</summary>
+        
+      
     
     
     
-    <category term="LeetCode" scheme="https://yowdesert.github.io/categories/LeetCode/"/>
+    <category term="資料庫系統" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E6%96%99%E5%BA%AB%E7%B3%BB%E7%B5%B1/"/>
     
-    <category term="Hard" scheme="https://yowdesert.github.io/categories/LeetCode/Hard/"/>
+    <category term="Basic SQL" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E6%96%99%E5%BA%AB%E7%B3%BB%E7%B5%B1/Basic-SQL/"/>
     
     
-    <category term="LeetCode" scheme="https://yowdesert.github.io/tags/LeetCode/"/>
-    
-    <category term="Math" scheme="https://yowdesert.github.io/tags/Math/"/>
-    
-    <category term="DFS" scheme="https://yowdesert.github.io/tags/DFS/"/>
-    
-    <category term="Backtracking" scheme="https://yowdesert.github.io/tags/Backtracking/"/>
-    
-    <category term="Hard" scheme="https://yowdesert.github.io/tags/Hard/"/>
+    <category term="資料庫系統" scheme="https://yowdesert.github.io/tags/%E8%B3%87%E6%96%99%E5%BA%AB%E7%B3%BB%E7%B5%B1/"/>
     
   </entry>
   
   <entry>
     <title>(線性代數) 矩陣與矩陣運算</title>
-    <link href="https://yowdesert.github.io/posts/0.html"/>
-    <id>https://yowdesert.github.io/posts/0.html</id>
-    <published>2025-08-14T08:40:00.000Z</published>
-    <updated>2025-08-18T08:19:49.206Z</updated>
+    <link href="https://yowdesert.github.io/posts/52554cd4.html"/>
+    <id>https://yowdesert.github.io/posts/52554cd4.html</id>
+    <published>2025-08-14T00:40:00.000Z</published>
+    <updated>2025-12-11T14:22:17.836Z</updated>
     
     
-    <summary type="html">本文介紹矩陣的基本概念、記號、種類與基本運算，是學習線性代數的基礎。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;矩陣與矩陣運算基礎&lt;/h1&gt;
+&lt;p&gt;在&lt;strong&gt;線性代數&lt;/strong&gt;中，矩陣（Matrix）是一種用於表示線性變換與解線性方程組的重要工具。&lt;br&gt;
+矩陣由數字依照**列（row）&lt;strong&gt;與&lt;/strong&gt;行（column）**排列成長方形陣列。&lt;/</summary>
+        
+      
     
     
     
-    <category term="研究所" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/"/>
+    <category term="線性代數" scheme="https://yowdesert.github.io/categories/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/"/>
     
-    <category term="線性代數" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/"/>
-    
-    <category term="矩陣與線性方程組" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/%E7%9F%A9%E9%99%A3%E8%88%87%E7%B7%9A%E6%80%A7%E6%96%B9%E7%A8%8B%E7%B5%84/"/>
+    <category term="矩陣與線性方程組" scheme="https://yowdesert.github.io/categories/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/%E7%9F%A9%E9%99%A3%E8%88%87%E7%B7%9A%E6%80%A7%E6%96%B9%E7%A8%8B%E7%B5%84/"/>
     
     
     <category term="線性代數" scheme="https://yowdesert.github.io/tags/%E7%B7%9A%E6%80%A7%E4%BB%A3%E6%95%B8/"/>
@@ -71,99 +82,29 @@
   </entry>
   
   <entry>
-    <title>LeetCode 題目統整筆記</title>
-    <link href="https://yowdesert.github.io/posts/leetcode_summary.html"/>
-    <id>https://yowdesert.github.io/posts/leetcode_summary.html</id>
-    <published>2025-08-14T04:00:00.000Z</published>
-    <updated>2025-08-18T04:04:22.915Z</updated>
-    
-    
-    <summary type="html">LeetCode 題目統整，依照難度、類型、演算法分類整理，方便查閱。</summary>
-    
-    
-    
-    <category term="LeetCode" scheme="https://yowdesert.github.io/categories/LeetCode/"/>
-    
-    <category term="所有題目分類" scheme="https://yowdesert.github.io/categories/LeetCode/%E6%89%80%E6%9C%89%E9%A1%8C%E7%9B%AE%E5%88%86%E9%A1%9E/"/>
-    
-    
-    <category term="LeetCode" scheme="https://yowdesert.github.io/tags/LeetCode/"/>
-    
-    <category term="練習題整理" scheme="https://yowdesert.github.io/tags/%E7%B7%B4%E7%BF%92%E9%A1%8C%E6%95%B4%E7%90%86/"/>
-    
-    <category term="演算法分類" scheme="https://yowdesert.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95%E5%88%86%E9%A1%9E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode 70題 Climbing Stairs 解題筆記</title>
-    <link href="https://yowdesert.github.io/posts/70climb.html"/>
-    <id>https://yowdesert.github.io/posts/70climb.html</id>
-    <published>2025-08-14T03:30:00.000Z</published>
-    <updated>2025-08-14T04:49:32.435Z</updated>
-    
-    
-    <summary type="html">LeetCode 70 題 Climbing Stairs 題目翻譯、範例與解法整理。</summary>
-    
-    
-    
-    <category term="LeetCode" scheme="https://yowdesert.github.io/categories/LeetCode/"/>
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/categories/LeetCode/Easy/"/>
-    
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/tags/Easy/"/>
-    
-    <category term="LeetCode" scheme="https://yowdesert.github.io/tags/LeetCode/"/>
-    
-    <category term="Dynamic Programming" scheme="https://yowdesert.github.io/tags/Dynamic-Programming/"/>
-    
-    <category term="Math" scheme="https://yowdesert.github.io/tags/Math/"/>
-    
-    <category term="Memoization" scheme="https://yowdesert.github.io/tags/Memoization/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode 2264題 Largest 3-Same-Digit Number in String 解題筆記</title>
-    <link href="https://yowdesert.github.io/posts/227e4073.html"/>
-    <id>https://yowdesert.github.io/posts/227e4073.html</id>
-    <published>2025-08-14T03:00:00.000Z</published>
-    <updated>2025-08-14T04:25:21.009Z</updated>
-    
-    
-    <summary type="html">LeetCode 2264 題 Largest 3-Same-Digit Number in String 題目翻譯、範例與解法整理。</summary>
-    
-    
-    
-    <category term="LeetCode" scheme="https://yowdesert.github.io/categories/LeetCode/"/>
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/categories/LeetCode/Easy/"/>
-    
-    
-    <category term="String" scheme="https://yowdesert.github.io/tags/String/"/>
-    
-    <category term="Weekly Contest 292" scheme="https://yowdesert.github.io/tags/Weekly-Contest-292/"/>
-    
-    <category term="LeetCode" scheme="https://yowdesert.github.io/tags/LeetCode/"/>
-    
-  </entry>
-  
-  <entry>
     <title>[離散數學] 基本符號與概念速查表</title>
-    <link href="https://yowdesert.github.io/posts/69c95243.html"/>
-    <id>https://yowdesert.github.io/posts/69c95243.html</id>
-    <published>2025-08-12T07:00:00.000Z</published>
-    <updated>2025-08-14T08:39:03.822Z</updated>
+    <link href="https://yowdesert.github.io/posts/5cf5d8d8.html"/>
+    <id>https://yowdesert.github.io/posts/5cf5d8d8.html</id>
+    <published>2025-08-11T23:00:00.000Z</published>
+    <updated>2025-12-11T14:18:38.764Z</updated>
     
     
-    <summary type="html">離散數學入門的基本符號與概念速查，涵蓋邏輯、集合、數系、數論，附上簡單生活化例子，方便快速查找。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;📚 &lt;strong&gt;這篇文章是離散數學符號速查表！&lt;/strong&gt;&lt;br&gt;
+適用考前快速查詢，不含艱澀推導。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;1.</summary>
+        
+      
     
     
     
-    <category term="研究所" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/"/>
+    <category term="離散數學" scheme="https://yowdesert.github.io/categories/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/"/>
     
-    <category term="離散數學" scheme="https://yowdesert.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/"/>
+    <category term="研究所" scheme="https://yowdesert.github.io/categories/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/%E7%A0%94%E7%A9%B6%E6%89%80/"/>
     
     
     <category term="離散數學" scheme="https://yowdesert.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/"/>
@@ -173,273 +114,23 @@
   </entry>
   
   <entry>
-    <title>[PicoCTF] EVEN RSA CAN BE BROKEN??? 解題筆記</title>
-    <link href="https://yowdesert.github.io/picoCTF/EVEN-RSA/"/>
-    <id>https://yowdesert.github.io/picoCTF/EVEN-RSA/</id>
-    <published>2025-08-11T11:15:00.000Z</published>
-    <updated>2025-08-14T07:05:52.059Z</updated>
-    
-    
-    <summary type="html">PicoCTF EVEN RSA CAN BE BROKEN??? 題目的解題過程與筆記。</summary>
-    
-    
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/categories/PicoCTF/"/>
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/categories/PicoCTF/Cryptography/"/>
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/categories/PicoCTF/Cryptography/Easy/"/>
-    
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/tags/Easy/"/>
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/tags/Cryptography/"/>
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/tags/PicoCTF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[PicoCTF] RED 解題筆記</title>
-    <link href="https://yowdesert.github.io/picoCTF/RED/"/>
-    <id>https://yowdesert.github.io/picoCTF/RED/</id>
-    <published>2025-08-09T14:00:00.000Z</published>
-    <updated>2025-08-14T07:05:52.059Z</updated>
-    
-    
-    <summary type="html">PicoCTF RED 題目的解題過程與筆記。</summary>
-    
-    
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/categories/PicoCTF/"/>
-    
-    <category term="Forensics" scheme="https://yowdesert.github.io/categories/PicoCTF/Forensics/"/>
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/categories/PicoCTF/Forensics/Easy/"/>
-    
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/tags/PicoCTF/"/>
-    
-    <category term="Forensics" scheme="https://yowdesert.github.io/tags/Forensics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[PicoCTF] Ph4nt0m 1ntrud3r 解題筆記</title>
-    <link href="https://yowdesert.github.io/picoCTF/Ph4nt0m1ntrud3r/"/>
-    <id>https://yowdesert.github.io/picoCTF/Ph4nt0m1ntrud3r/</id>
-    <published>2025-08-09T13:30:00.000Z</published>
-    <updated>2025-08-14T07:05:52.059Z</updated>
-    
-    
-    <summary type="html">PicoCTF Ph4nt0m 1ntrud3r 題目的解題過程與筆記。</summary>
-    
-    
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/categories/PicoCTF/"/>
-    
-    <category term="Forensics" scheme="https://yowdesert.github.io/categories/PicoCTF/Forensics/"/>
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/categories/PicoCTF/Forensics/Easy/"/>
-    
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/tags/PicoCTF/"/>
-    
-    <category term="Forensics" scheme="https://yowdesert.github.io/tags/Forensics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[PicoCTF] Verify 解題筆記</title>
-    <link href="https://yowdesert.github.io/posts/b7f15b2a.html"/>
-    <id>https://yowdesert.github.io/posts/b7f15b2a.html</id>
-    <published>2025-08-09T13:20:00.000Z</published>
-    <updated>2025-08-14T07:05:52.059Z</updated>
-    
-    
-    <summary type="html">PicoCTF Verify 題目的解題過程與筆記。</summary>
-    
-    
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/categories/PicoCTF/"/>
-    
-    <category term="Forensics" scheme="https://yowdesert.github.io/categories/PicoCTF/Forensics/"/>
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/categories/PicoCTF/Forensics/Easy/"/>
-    
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/tags/Easy/"/>
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/tags/Cryptography/"/>
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/tags/PicoCTF/"/>
-    
-    <category term="Forensics" scheme="https://yowdesert.github.io/tags/Forensics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[資訊安全] 常見編碼方式一覽</title>
-    <link href="https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/%E5%B8%B8%E8%A6%8B%E7%B7%A8%E7%A2%BC%E6%96%B9%E5%BC%8F%E4%B8%80%E8%A6%BD/"/>
-    <id>https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/%E5%B8%B8%E8%A6%8B%E7%B7%A8%E7%A2%BC%E6%96%B9%E5%BC%8F%E4%B8%80%E8%A6%BD/</id>
-    <published>2025-08-08T13:00:00.000Z</published>
-    <updated>2025-08-14T04:57:29.991Z</updated>
-    
-    
-    <summary type="html">一覽 Base64、URL Encoding、Hex、ROT13 等常見編碼方式與判斷技巧</summary>
-    
-    
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-    <category term="編碼" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/%E7%B7%A8%E7%A2%BC/"/>
-    
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/tags/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-    <category term="編碼" scheme="https://yowdesert.github.io/tags/%E7%B7%A8%E7%A2%BC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[資訊安全] AES 是什麼？快速理解筆記</title>
-    <link href="https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/WhatIsAES/"/>
-    <id>https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/WhatIsAES/</id>
-    <published>2025-08-07T09:00:00.000Z</published>
-    <updated>2025-08-14T04:35:56.747Z</updated>
+    <title>Blog 短介</title>
+    <link href="https://yowdesert.github.io/posts/8c9724f3.html"/>
+    <id>https://yowdesert.github.io/posts/8c9724f3.html</id>
+    <published>2025-08-05T23:30:00.000Z</published>
+    <updated>2025-12-11T14:12:19.232Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Topic-AES-是什麼？&quot;&gt;&lt;a href=&quot;#Topic-AES-是什麼？&quot; class=&quot;headerlink&quot; title=&quot;Topic : AES 是什麼？&quot;&gt;&lt;/a&gt;Topic : AES 是什麼？&lt;/h1&gt;&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/Cryptography/"/>
-    
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/tags/Cryptography/"/>
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/tags/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-    <category term="AES" scheme="https://yowdesert.github.io/tags/AES/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[資訊安全] 對稱式加密 vs 非對稱式加密 (RSA)</title>
-    <link href="https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/%E5%B0%8D%E7%A8%B1%E5%BC%8F%E5%8A%A0%E5%AF%86vs%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%BC%8F%E5%8A%A0%E5%AF%86/"/>
-    <id>https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/%E5%B0%8D%E7%A8%B1%E5%BC%8F%E5%8A%A0%E5%AF%86vs%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%BC%8F%E5%8A%A0%E5%AF%86/</id>
-    <published>2025-08-07T08:30:00.000Z</published>
-    <updated>2025-08-14T07:05:52.059Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Topic-對稱式加密-vs-非對稱式加密&quot;&gt;&lt;a href=&quot;#Topic-對稱式加密-vs-非對稱式加密&quot; class=&quot;headerlink&quot; title=&quot;Topic: 對稱式加密 vs 非對稱式加密&quot;&gt;&lt;/a&gt;Topic: 對稱式加密 vs</summary>
-        
-      
-    
-    
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/Cryptography/"/>
-    
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/tags/Cryptography/"/>
-    
-    <category term="RSA" scheme="https://yowdesert.github.io/tags/RSA/"/>
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/tags/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[資訊安全] RSA 是什麼？快速理解筆記</title>
-    <link href="https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/WhatIsRSA/"/>
-    <id>https://yowdesert.github.io/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/WhatIsRSA/</id>
-    <published>2025-08-07T08:00:00.000Z</published>
-    <updated>2025-08-14T04:57:38.249Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Topic-RSA-是什麼？&quot;&gt;&lt;a href=&quot;#Topic-RSA-是什麼？&quot; class=&quot;headerlink&quot; title=&quot;Topic : RSA 是什麼？&quot;&gt;&lt;/a&gt;Topic : RSA 是什麼？&lt;/h1&gt;&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/categories/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/Cryptography/"/>
-    
-    
-    <category term="Cryptography" scheme="https://yowdesert.github.io/tags/Cryptography/"/>
-    
-    <category term="RSA" scheme="https://yowdesert.github.io/tags/RSA/"/>
-    
-    <category term="資訊安全" scheme="https://yowdesert.github.io/tags/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[PicoCTF] head-dump 解題筆記</title>
-    <link href="https://yowdesert.github.io/posts/da80d575.html"/>
-    <id>https://yowdesert.github.io/posts/da80d575.html</id>
-    <published>2025-08-07T06:00:00.000Z</published>
-    <updated>2025-08-14T07:05:52.059Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Challenge-head-dump&quot;&gt;&lt;a href=&quot;#Challenge-head-dump&quot; class=&quot;headerlink&quot; title=&quot;Challenge: head-dump&quot;&gt;&lt;/a&gt;Challenge:</summary>
-        
-      
-    
-    
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/categories/PicoCTF/"/>
-    
-    <category term="Web Exploitation" scheme="https://yowdesert.github.io/categories/PicoCTF/Web-Exploitation/"/>
-    
-    <category term="Easy" scheme="https://yowdesert.github.io/categories/PicoCTF/Web-Exploitation/Easy/"/>
-    
-    
-    <category term="Web Exploitation" scheme="https://yowdesert.github.io/tags/Web-Exploitation/"/>
-    
-    <category term="PicoCTF_Easy" scheme="https://yowdesert.github.io/tags/PicoCTF-Easy/"/>
-    
-    <category term="PicoCTF" scheme="https://yowdesert.github.io/tags/PicoCTF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Blog 簡介</title>
-    <link href="https://yowdesert.github.io/posts/undefined.html"/>
-    <id>https://yowdesert.github.io/posts/undefined.html</id>
-    <published>2025-08-06T07:30:00.000Z</published>
-    <updated>2025-08-09T06:44:31.288Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;👋-Hi，我是-YowDesert&quot;&gt;&lt;a href=&quot;#👋-Hi，我是-YowDesert&quot; class=&quot;headerlink&quot; title=&quot;👋 Hi，我是 YowDesert&quot;&gt;&lt;/a&gt;👋 Hi，我是</summary>
+    <summary type="html">&lt;h1&gt;👋 Hi，我是 YowDesert&lt;/h1&gt;
+&lt;p&gt;歡迎來到我的個人部落格！&lt;/p&gt;
+&lt;p&gt;這裡是我在學習旅程中的一個小基地，會紀錄我在：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;程式學習&lt;/li&gt;
+&lt;li&gt;CTF</summary>
         
       
     
